@@ -45,5 +45,5 @@
 
 <h2>Download</h2>
         <p>
-        Download HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip">by clicking here</a>.</br>
+        Download HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip?raw=true">by clicking here</a>.</br>
   <p/>
