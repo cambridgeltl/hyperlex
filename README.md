@@ -47,3 +47,12 @@
         <p>
         Download HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip?raw=true">by clicking here</a>.</br>
   <p/>
+  
+  All design details are outlined in the following paper. Please cite it if you use HyperLex in your own work:<br/>
+        </p>
+        <p>
+        <b>HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment</b> <br/>
+        Ivan Vuli&cacute;, Daniela Gerz, Douwe Kiela, Felix Hill, and Anna Korhonen. 
+        Computational Linguistics, volume 43, number 4, pages 781-835, 2017.<br/>
+        [<a href="https://www.aclweb.org/anthology/J17-4004.pdf">pdf</a>]
+        </p>
