@@ -74,6 +74,6 @@
         [<a href="https://www.aclweb.org/anthology/P19-1490.pdf">pdf</a>] [<a href="https://www.aclweb.org/anthology/P19-1490.bib">bib</a>]
         </p>
 
-<h2> Contact </h2>
+<h3> Contact </h3>
 
 <p>Please contact the first author (<a href="https://sites.google.com/site/ivanvulic/">Ivan Vuli&cacute;</a>) if you have any questions not addressed in the referenced papers and repo README files.</p>
