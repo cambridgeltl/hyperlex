@@ -48,7 +48,7 @@
         Download HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip?raw=true">by clicking here</a>.</br>
   <p/>
   
-  All design details are outlined in the following paper. Please cite it if you use HyperLex in your own work:<br/>
+  All design details are described in the following paper. Please cite it if you use HyperLex in your own work:<br/>
         </p>
         <p>
         <b>HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment</b> <br/>
@@ -66,4 +66,13 @@
   Similar repositories for three other languages <b>(German, Italian, Croatian)</b> based on the original English HyperLex are
         also available. You can download multilingual and cross-lingual HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/cl-hyperlex-data.zip?raw=true">by clicking here</a>.</br>
   <p/>
+  
+  The multilingual and cross-lingual extensions of the original HyperLex data set are described in the following paper. Please cite it if you use the data in your own work:<br/>
+        </p>
+        <p>
+        <b>Multilingual and Cross-Lingual Graded Lexical Entailment</b> <br/>
+        Ivan Vulić, Simone Paolo Ponzetto, and Goran Glavaš.
+        Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019), pages 4963-4974, 2019.<br/>
+        [<a href="https://www.aclweb.org/anthology/P19-1490.pdf">pdf</a>] [<a href="https://www.aclweb.org/anthology/P19-1490.bib">bib</a>]
+        </p>
 
