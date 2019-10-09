@@ -76,4 +76,4 @@
 
 <h3> Contact </h3>
 
-<p>Please contact the first author (<a href="https://sites.google.com/site/ivanvulic/">Ivan Vuli&cacute;</a>) if you have any questions not addressed in the referenced papers and repo README files.</p>
+<p>Please contact the first author (<a href="https://sites.google.com/site/ivanvulic/">Ivan Vuli&cacute;</a>) if you have any questions not addressed in the referenced papers and the accompanying repo README files.</p>
