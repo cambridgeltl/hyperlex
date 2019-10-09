@@ -40,3 +40,10 @@
                 <td>2.90</td> 
             </tr>
         </table>
+
+<p>HyperLex covers plenty of normed word types from the USF free-association database, and provides annotated examples of different WordNet-based lexical relations (i.e., hyponymy-hypernymy at different levels, co-hyponymy, synonymy, antonymy, meronymy-holonymy, no-relation). It also contains examples of different concreteness levels.</p>
+
+<h2>Download</h2>
+        <p>
+        Download HyperLex [by clicking here](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/all-l1-l2.zip)
+  <p/>
