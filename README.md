@@ -60,4 +60,10 @@
  <p>The provided archive includes the full HyperLex dataset, noun and verb subsets, as well as two different data splits (random and lexical) into training, development and test data. Please see the accompanying <i>readme</i> file for the file formats and further details.</p>
 
   <p>Please contact the first author (<a href="https://sites.google.com/site/ivanvulic/">Ivan Vuli&cacute;</a>) if you have any questions not addressed in the paper.</p>
+  
+<h2>HyperLex in Other Languages and Cross-Lingual HyperLex</h2>
+        <p>
+        Similar repositories for three other languages (German, Italian, Croatian) based on the original English HyperLex are
+        also available. You can download multilingual and cross-lingual HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip?raw=true">by clicking here</a>.</br>
+  <p/>
 
