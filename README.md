@@ -45,5 +45,5 @@
 
 <h2>Download</h2>
         <p>
-        Download HyperLex [by clicking here](https://github.com/cambridgeltl/panlex-bli/raw/master/lexicons/all-l1-l2.zip)
+        Download HyperLex <a href="paper/hyperlex/hyperlex-data.zip">by clicking here</a>.</br>
   <p/>
