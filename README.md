@@ -4,7 +4,7 @@
   </div>
         <p><i><b>HyperLex</b></i> is a gold standard resource for measuring and evaluating how well semantic models capture <b>graded or soft lexical entailment</b> (also known as the <i>type-of, is-a, or hypernymy-hyponymy</i> relation) rather than semantic similarity or relatedness. It quantifies the extent of the semantic category membership and lexical entailment (LE) relation.</p>
         
-<p>We provide 2616 word pairs (2163 noun pairs and 453 verb pairs) with ratings on a scale 0-6, annotated according to the question: <i>"To what degree is X a type of Y?"</i>. Here are some examples:</p>
+<p>HyperLex provides <b>2616 word pairs</b> (2163 noun pairs and 453 verb pairs) with ratings on a scale 0-6, annotated according to the question: <i>"To what degree is X a type of Y?"</i>. Here are some examples:</p>
 
 <table width='25%'>
             <tr>
