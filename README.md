@@ -54,7 +54,7 @@
         <b>HyperLex: A Large-Scale Evaluation of Graded Lexical Entailment</b> <br/>
         Ivan Vuli&cacute;, Daniela Gerz, Douwe Kiela, Felix Hill, and Anna Korhonen. 
         Computational Linguistics, volume 43, number 4, pages 781-835, 2017.<br/>
-        [<a href="https://www.aclweb.org/anthology/J17-4004.pdf">pdf</a>]
+        [<a href="https://www.aclweb.org/anthology/J17-4004.pdf">pdf</a>] [<a href="https://www.aclweb.org/anthology/J17-4004.bib">bib</a>]
         </p>
         
  <p>The provided archive includes the full HyperLex dataset, noun and verb subsets, as well as two different data splits (random and lexical) into training, development and test data. Please see the accompanying <i>readme</i> file for the file formats and further details.</p>
