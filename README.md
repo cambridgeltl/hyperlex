@@ -64,6 +64,6 @@
 <h2>HyperLex in Other Languages and Cross-Lingual HyperLex</h2>
         <p>
   Similar repositories for three other languages <b>(German, Italian, Croatian)</b> based on the original English HyperLex are
-        also available. You can download multilingual and cross-lingual HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/hyperlex-data.zip?raw=true">by clicking here</a>.</br>
+        also available. You can download multilingual and cross-lingual HyperLex <a href="https://github.com/cambridgeltl/hyperlex/blob/master/cl-hyperlex-data.zip?raw=true">by clicking here</a>.</br>
   <p/>
 
