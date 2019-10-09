@@ -1,6 +1,3 @@
-# HyperLex
-<b>HyperLex</b>: a gold standard resource for measuring and evaluating how well semantic models capture graded or soft lexical entailment
-
 <h1>HyperLex</h1>
   <div>
   <img class="resize" src="https://user-images.githubusercontent.com/21332532/66464553-884cee00-ea7f-11e9-806b-9573814d2591.png">   
